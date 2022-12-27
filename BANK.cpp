@@ -100,7 +100,7 @@ int main ()
 	  break;
 
 	}
-
+      cout << "yes for continue & no for discontinue" << endl;
       cout << "Do You Want to Continue: ";
       cin >> ch1;
       cout << endl;
